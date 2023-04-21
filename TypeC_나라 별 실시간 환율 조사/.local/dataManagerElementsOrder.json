@@ -3,17 +3,33 @@
     {
       "Path": null,
       "SortBy": 0,
-      "VariablesSectionElementsOrder": null,
+      "VariablesSectionElementsOrder": [],
       "ArgumentsSectionElementsOrder": null,
-      "ConstantsSectionElementsOrder": null,
+      "ConstantsSectionElementsOrder": [],
       "AddedNamespaces": null
     },
     {
       "Path": "TypeC.xaml",
       "SortBy": 0,
-      "VariablesSectionElementsOrder": null,
-      "ArgumentsSectionElementsOrder": null,
-      "ConstantsSectionElementsOrder": null,
+      "VariablesSectionElementsOrder": [
+        "DT_RecentExtract&Flowchart_1",
+        "DT_Exchange&Flowchart_1",
+        "DT_EU&Flowchart_1",
+        "Str_Today&Flowchart_1",
+        "DT_BeforeExtract&Flowchart_1",
+        "Str_Value&Flowchart_1",
+        "Lst_EU&Flowchart_1",
+        "Str_Yesterday&Flowchart_1",
+        "Int_Count&Flowchart_1",
+        "Dic_Config&Flowchart_1",
+        "Str_FilePath&Flowchart_1",
+        "Str_KitaURL&Flowchart_1",
+        "Str_ResultPath&Flowchart_1",
+        "Str_ExcelFile&Flowchart_1",
+        "Str_KitaExchangePart&Flowchart_1"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
       "AddedNamespaces": null
     },
     {
